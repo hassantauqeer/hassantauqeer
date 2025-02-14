@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![hassantauqeer's GitHub | Stats](https://stats.quira.sh/hassantauqeer/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=hassantauqeer)
 <!--
 **hassantauqeer/hassantauqeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
